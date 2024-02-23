@@ -1,33 +1,15 @@
 # refer_list
 
-- 2024/02/22
+- 2024/02/23
 
-  MC-146 datasheet
+  TPS2551 datasheet
 
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/272598/EPSONTOYOCOM/MC-146.html
+  https://pdf1.alldatasheet.com/datasheet-pdf/download/221809/TI/TPS2551.html
 
-  SG-3040LC
+  OTS-200 measuring instrument manual
 
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/422842/EPSONTOYOCOM/SG-3040LC.html
+  https://www.oeggmbh.com/public/media/pdf/8591749.pdf
 
-  SG-3030LC
-
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/422839/EPSONTOYOCOM/SG-3030LC.html
-
-  SG-3030JC
-
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/422841/EPSONTOYOCOM/SG-3030JC.html
-
-  
-- 2024/02/20
-
-  RV-3049-C3 datasheet
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/793961/MICROCRYSTAL/RV-3049-C3.html
-
-  PPS2551 datasheet
-  https://m.haociso.com/s/PPS-2551/20.html
-  
-  PPS25 datasheet
-  https://pdf1.alldatasheet.com/datasheet-pdf/download/203090/POWER-ONE/PPS25.html
+  https://www.oeggmbh.com/public/media/pdf/2024807.pdf
 
   
