@@ -1,7 +1,7 @@
 # refer_list
 
-- 2024/03/21
+- 2024/03/25
 
-  SY351
+  SY3511
 
-  https://datasheetspdf.com/pdf-down/S/Y/3/SY351-ETC.pdf
+  https://datasheetspdf.com/pdf-down/S/Y/3/SY3511-TPS.pdf
