@@ -1,39 +1,16 @@
 # refer_list
 
-- 2024/06/07
+- 2024/09/24
 
-  Microwave Radiometer Systems, Design and Analysis (PDF)
+  PDF RB-310B BORISOGLEBSK-2 Complex Automated Jamming
 
-  https://img1.wsimg.com/blobby/go/671d8571-de15-47bb-8cd8-b624751dbe0e/downloads/microwave_radiometer_systems_design_and_analysis.pdf
-
-  Millimeter Wave Engineering and Applications (HTML)
-
-  https://www.semanticscholar.org/paper/Millimeter-Wave-Engineering-and-Applications-Bhartia-Bahl/6d367fda42249563bf558f6fd24b714f3247b87d
-
-  https://www.osti.gov/biblio/5567208
-
-  A passive millimeter wave imaging system for concealed wapons and explosives detection (PDF)
-
-  https://alert.northeastern.edu/assets/adsa/adsa06_presentations/Sheen%20DHS%20ADSA06%20mm-wave%20v1.pdf
-
-  https://typeset.io/pdf/a-passive-millimeter-wave-imager-used-for-concealed-weapon-1skjyf0910.pdf
-
-  New applications of millimeter wave incoherent imaging (HTML)
-
-  https://www.semanticscholar.org/paper/New-applications-of-millimeter-wave-incoherent-Mizuno-Matono/3a317cf055056db80d3d6fe729de37e04b87155a
-
-  Design of narrow width Fermi Antenna with circular radiation pattern (HTML)
-
-  https://www.researchgate.net/publication/224751732_Design_of_narrow-width_FERMI_antenna_with_circular_radiation_pattern
-
-  94 GHz band high gain and low noise amplifier using InP HEMTs for passive millimeter wave imager (HTML)
-
-  https://www.researchgate.net/publication/224715900_94-GHz_Band_High-Gain_and_Low-Noise_Amplifier_Using_InP-HEMTs_for_Passive_Millimeter_Wave_Imager
-
-  Compact receiver module for a 94 GHz band passive milimetre wave imager (HTML)
-
-  https://www.researchgate.net/publication/224353320_Compact_receiver_module_for_a_94_GHz_band_passive_millimetre-wave_imager
-
-  Advanced MMIC Receiver for 94 GHz Band Passive Millimeter wave imager (HTML)
-
-  https://www.jstage.jst.go.jp/article/transele/E92.C/9/E92.C_9_1124/_article/-char/en
+  https://sprotyvg7.com.ua/wp-content/uploads/2023/11/COGINT_Analytic_Insight_Report_Russian_EW_Systems__231119_114942.pdf
+  https://pure.diis.dk/ws/files/4534518/Russia_s_Military_Migth.pdf
+  https://jamestown.org/wp-content/uploads/2022/07/Russias-Path-to-the-High-Tech-Battlespace-full-text-web.pdf
+  https://www.armyupress.army.mil/Portals/7/Legacy-Articles/documents/Thomas-Russian-Combat-Capabilities.pdf
+  https://irp.fas.org/doddir/army/atp7-100-1.pdf
+  https://www.armyupress.army.mil/Portals/7/Hot%20Spots/Documents/Russia/2017-07-The-Russian-Way-of-War-Grau-Bartles.pdf
+  https://icds.ee/wp-content/uploads/2018/ICDS_Report_Russias_Electronic_Warfare_to_2025.pdf
+  https://community.apan.org/cfs-file/__key/docpreview-s/00-00-16-41-19/20191201-Russian-Combat-Capabilities-_2800_Thomas_2900_.pdf
+  https://apps.dtic.mil/sti/trecms/pdf/AD1137511.pdf
+  https://oe.tradoc.army.mil/wp-content/uploads/2022/07/TRG2-Infographics-HTF-Series-Russia_07012022v2_electronic.pptx
