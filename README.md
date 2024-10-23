@@ -14,6 +14,8 @@ USRP X300/X310 manual
 
 https://seredokhov.github.io/gip/documents/Ettus%20X300,X310.pdf
 
+https://files.ettus.com/manual/page_usrp_x3x0.html
+
 USRP X300/X310 configuration guide
 
 https://img1.wsimg.com/blobby/go/e43625b4-75f0-4420-a863-f48690972d34/downloads/78075117701.pdf
