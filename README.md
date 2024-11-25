@@ -1,11 +1,15 @@
 # refer_list
 
-- 2024/11/07
+- 2024/11/25
 
-**TMS320F datasheet**
+**COOLING OF ELECTRONIC EQUIPMENT**
 
-https://www.alldatasheet.com/datasheet-pdf/download/1770580/TI/TMS320F.html
+https://tanyaeeclcourse.files.wordpress.com/2013/03/cen58933_ch15-cooling-of-electronic-equipment.pdf
 
-**TMS320 datasheet**
+**HEATING AND COOLING OF BUILDINGS**
 
-https://www.alldatasheet.com/datasheet-pdf/download/29031/TI/TMS320.html
+https://www.discountpdh.com/wp-content/themes/discountpdh/pdf-course/heating-and-cooling-of-the-buildings.pdf
+
+**REFRIGERATION AND FREEZING OF FOODS**
+
+https://www.cold.org.gr/library/downloads/Docs/Refrigeration%20&%20freezing%20of%20foods.pdf
