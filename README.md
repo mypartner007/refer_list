@@ -1,15 +1,11 @@
 # refer_list
 
-- 2024/11/25
+- 2024/12/16
 
-**COOLING OF ELECTRONIC EQUIPMENT**
+**NO Tippenhauer, On the requirements of successful GPS spoofing attacks PDF**
 
-https://tanyaeeclcourse.files.wordpress.com/2013/03/cen58933_ch15-cooling-of-electronic-equipment.pdf
+http://www.cs.ox.ac.uk/files/6489/gps.pdf
 
-**HEATING AND COOLING OF BUILDINGS**
+https://www.semanticscholar.org/paper/On-the-requirements-for-successful-GPS-spoofing-Tippenhauer-P%C3%B6pper/72a9545765c1887cb441fa4c6ff5f6887c71d790
 
-https://www.discountpdh.com/wp-content/themes/discountpdh/pdf-course/heating-and-cooling-of-the-buildings.pdf
-
-**REFRIGERATION AND FREEZING OF FOODS**
-
-https://www.cold.org.gr/library/downloads/Docs/Refrigeration%20&%20freezing%20of%20foods.pdf
+https://dl.acm.org/doi/10.1145/2046707.2046719
