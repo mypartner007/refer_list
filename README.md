@@ -1,11 +1,11 @@
 # refer_list
 
-- 2024/12/16
+- 2025/1/6
 
-**NO Tippenhauer, On the requirements of successful GPS spoofing attacks PDF**
+**Application of pulsed power to mushroom culturing PDF**
 
-http://www.cs.ox.ac.uk/files/6489/gps.pdf
+https://ieeexplore.ieee.org/document/1278007
 
-https://www.semanticscholar.org/paper/On-the-requirements-for-successful-GPS-spoofing-Tippenhauer-P%C3%B6pper/72a9545765c1887cb441fa4c6ff5f6887c71d790
+**PDF Development of an Automatic Electrical stimulator for mushroom sawdust bottle**
 
-https://dl.acm.org/doi/10.1145/2046707.2046719
+https://ieeexplore.ieee.org/document/4084502
