@@ -6,7 +6,7 @@
 
 https://www.intel.com/content/www/us/en/products/sku/236403/cyclone-iv-gx-fpga-development-kit/downloads.html
 
-2. Matric Operation Library
+2. Matrix Operation Library
 
 libeigen library github release tags
 
