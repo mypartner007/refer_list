@@ -1,11 +1,7 @@
 # refer_list
 
-- 2025/1/6
+- 2025/1/13
 
-**Application of pulsed power to mushroom culturing PDF**
+cyclone IV GX FPGA Development kit download
 
-https://ieeexplore.ieee.org/document/1278007
-
-**PDF Development of an Automatic Electrical stimulator for mushroom sawdust bottle**
-
-https://ieeexplore.ieee.org/document/4084502
+https://www.intel.com/content/www/us/en/products/sku/236403/cyclone-iv-gx-fpga-development-kit/downloads.html
