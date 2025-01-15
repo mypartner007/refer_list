@@ -24,5 +24,5 @@ https://github.com/okdshin/mkl-dnn/archive/refs/tags/v0.14.tar.gz
 
 arm openwrt linux muslgnueabi library github
 
-arm-openwrt-linux-muslgnueabi-gcc-6.4.1/4.1.4/tuya_iot_iot_wifi_tls_arm-openwrt-linux-muslgnueabi-gcc-6.4.1_4.1.4.tar.gz
+https://github.com/TuyaInc/TUYA_IOT_SDK/blob/master/arm-openwrt-linux-muslgnueabi-gcc-6.4.1/4.1.4/tuya_iot_iot_wifi_tls_arm-openwrt-linux-muslgnueabi-gcc-6.4.1_4.1.4.tar.gz
 
