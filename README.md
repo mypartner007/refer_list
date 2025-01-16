@@ -26,3 +26,14 @@ arm openwrt linux muslgnueabi library github
 
 https://github.com/TuyaInc/TUYA_IOT_SDK/blob/master/arm-openwrt-linux-muslgnueabi-gcc-6.4.1/4.1.4/tuya_iot_iot_wifi_tls_arm-openwrt-linux-muslgnueabi-gcc-6.4.1_4.1.4.tar.gz
 
+- 2025/1/16
+
+switching power supply LLC reonator catalog pdf
+
+https://www.nxp.com/docs/en/reference-manual/DRM119.pdf
+
+online UPS 10-50kw catalog pdf
+
+https://www.eaton.com/content/dam/eaton/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/eaton-93pm-ups/manuals/eaton-93pm-50-4w-ups-P-164000540.pdf
+
+https://cigroup-us.com/wp-content/uploads/2019/09/93PM-50-kW-Frame-Installation-manual.pdf
